@@ -1,5 +1,6 @@
 ---
-published: true
+layout: post
+title: You're up and running!
 ---
 
 ### How my love for skateboarding taught me a bunch about coding
