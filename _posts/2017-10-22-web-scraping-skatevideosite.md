@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ### How my love for skateboarding taught me a bunch about coding
